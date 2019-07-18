@@ -1,4 +1,4 @@
-# Project Title
+# Tetris
 
 This is just a very basic Tetris clone.
 
@@ -6,7 +6,7 @@ This is just a very basic Tetris clone.
 
 Press the 's' key to start a new game, 'space' to drop the current block and the arrow keys for moving and rotating the block.
 
-### Installing
+## Installing
 
 In order to install this project, simply execute the maven command:
 
